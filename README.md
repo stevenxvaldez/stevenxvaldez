@@ -1,4 +1,4 @@
-<h1 align="center">🪄Codecraft Wizard</h1> 
+<h1 align="center">✨Codecraft Wizard</h1> 
 <table align="center">
   <tr>
     <td align="center" width="90">
